@@ -1,1 +1,2 @@
-"# Heart-Disease-Clustering" 
+# Clustering_Heart_Disease_Patient_Data
+This is our Data Science project. In this project, our problem domain is Healthcare. Doctors research previous cases to figure out how to better handle their patients. A patient with a similar history of health or symptoms to a prior patient will benefit from being treated the same way. This project examines whether we could group patients together to target treatments using some machine learning techniques.
